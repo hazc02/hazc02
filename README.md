@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey there! I'm Harry Carless 👋
 
-<!--
-**hazc02/hazc02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm an MEng Electronic Engineering student at the University of Leeds. Here’s a little bit about me and what I’ve been up to!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **Degree**: MEng Electronic Engineering
+  *University*: The University of Leeds
+  *Graduation Year*: July 2026  
+  *Highlights*: Embedded Systems Development, FPGA Programming, Circuit Analysis
+  
+---
+
+## 💻 Projects
+Here are some of my favorite projects I’ve worked on:
+
+### RTK GNSS System for Precise Location with 3D Orientation
+- **Description**: [e.g., A web app to track personal expenses built with React and Node.js.]   
+- **Link**: [e.g., [GitHub Repo](https://github.com/yourusername/project1) | [Live Demo](https://yourwebsite.com)]  
+- **Highlights**: [e.g., Implemented user authentication and real-time data updates.]
+
+---
+
+## 🛠️ Experience
+- **Digital Image Processing Software Engineering Intern @ ARM**  
+  *Duration*: June 2024 - September 2024 
+  *Location*: Manchester, UK 
+  *Experience Gained*:  
+   - Digital Image Processing Techniques with Python and  C++
+   - Algorithm Development
+   - General Experience collaborating within a world-class team
+
+- **Returning Intern: Systems Engineering (Memory Management Units) @ ARM**  
+  *Duration*: June 2025 - September 2025  
+  *Location*: Manchester, UK
+
+---
+
+## 🌟 Skills
+- **Languages**: Python, C++, C, HDLs (SystemVerilog and VHDL), MATLAB  
+
+---
+
+## 📫 Let’s Connect!
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+Thanks for stopping by! Feel free to check out my repos and reach out if you’d like to collaborate!
