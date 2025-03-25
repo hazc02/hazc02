@@ -17,7 +17,6 @@ Here are some of my favorite projects I’ve worked on:
 
 ### RTK GNSS System for Precise Location with 3D Orientation
 - **Description**: [e.g., A web app to track personal expenses built with React and Node.js.]   
-- **Link**: [e.g., [GitHub Repo](https://github.com/yourusername/project1) | [Live Demo](https://yourwebsite.com)]  
 - **Highlights**:
   - Developed Algorithms to Derive Average Location and 3D Orientation from 3 RTK Reciever Chips
   - Developed a Lightweight SX1272 LoRa Driver for Communication Between Basestation and Rover
