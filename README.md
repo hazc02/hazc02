@@ -25,7 +25,7 @@ Here are some of my favorite projects I’ve worked on:
 ## 🛠️ Experience
 - **Digital Image Processing Software Engineering Intern @ ARM**  
   *Duration*: June 2024 - September 2024 
-  *Location*: Manchester, UK 
+  *Location*: Manchester, UK
   *Experience Gained*:  
    - Digital Image Processing Techniques with Python and  C++
    - Algorithm Development
