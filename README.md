@@ -31,7 +31,7 @@ Here are some of my favorite projects I’ve worked on:
    - Algorithm Development
    - General Experience collaborating within a world-class team
 
-- **Returning Intern: Systems Engineering (Memory Management Units) @ ARM**  
+- **Returning Intern: Systems Engineering (Memory Management Systems) @ ARM**  
   *Duration*: June 2025 - September 2025  
   *Location*: Manchester, UK
 
