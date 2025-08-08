@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm an MEng Electronic Engineering student at the Universi
 - **Degree**: MEng Electronic Engineering
   *University*: The University of Leeds
   *Graduation Year*: July 2026  
-  *Highlights*: Embedded Systems Development, FPGA Programming, Circuit Analysis
   
 ---
 
