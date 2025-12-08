@@ -22,6 +22,10 @@ Here are some of my favorite projects I’ve worked on:
 ---
 
 ## 🛠️ Experience
+- ** Graduate Engineer: Hardware Engineering @ ARM**
+  *Location*: Manchester, UK
+
+
 - **Digital Image Processing Software Engineering Intern @ ARM**  
   *Duration*: June 2024 - September 2024 
   *Location*: Manchester, UK
@@ -30,7 +34,7 @@ Here are some of my favorite projects I’ve worked on:
    - Algorithm Development
    - General Experience collaborating within a world-class team
 
-- **Returning Intern: Systems Engineering (Memory Management Systems) @ ARM**  
+- **Returning Intern: Hardware Engineering (Memory Management Systems) @ ARM**  
   *Duration*: June 2025 - September 2025  
   *Location*: Manchester, UK
 
