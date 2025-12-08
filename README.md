@@ -23,7 +23,7 @@ Here are some of my favorite projects I’ve worked on:
 
 ## 🛠️ Experience
 - **Graduate Engineer: Hardware Engineering @ ARM**
-- *Location*: Manchester, UK
+  *Location*: Manchester, UK
 
 
 - **Digital Image Processing Software Engineering Intern @ ARM**  
