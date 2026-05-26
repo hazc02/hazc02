@@ -46,6 +46,6 @@ Here are some of my favorite projects I’ve worked on:
 ---
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harry-carless/))  
 
 Thanks for stopping by! Feel free to check out my repos and reach out if you’d like to collaborate!
